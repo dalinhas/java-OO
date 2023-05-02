@@ -4,7 +4,7 @@ package teste;
 public class Cliente {
 	String nome;
 	int idade;
-	int cpf;
+	String cpf;
 	int senha;
 	String profissão;
 

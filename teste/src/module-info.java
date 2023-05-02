@@ -5,5 +5,5 @@
  * @author Usuário
  *
  */
-module Teste01 {
+module teste {
 }

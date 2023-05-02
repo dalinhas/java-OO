@@ -7,7 +7,7 @@ public class Conta1 {
 		Cliente contaDoMarcos = new Cliente();
 		contaDoMarcos.nome = "Marcos Augusto";
 		contaDoMarcos.idade = 40;
-		contaDoMarcos.cpf = 313;
+		contaDoMarcos.cpf = "4567";
 		contaDoMarcos.profissão = "Programador";
 		
 		// Aqui temos o uso da concatenação e os resultados retornados.
