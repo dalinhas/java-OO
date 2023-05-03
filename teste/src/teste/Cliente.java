@@ -7,6 +7,7 @@ public class Cliente {
 	String cpf;
 	int senha;
 	String profissão;
+	
 
 
 
